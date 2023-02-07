@@ -1,1 +1,1 @@
-time python3 -OO mandelbrot.py 50000 > /dev/null
+python3 -OO ./python/mandelbrot.py 50000 > /dev/null

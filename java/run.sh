@@ -1,1 +1,1 @@
-time java  -cp . mandelbrot 160000 > /dev/null
+time java  -cp . mandelbrot 50000 > /dev/null

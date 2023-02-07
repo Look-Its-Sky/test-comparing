@@ -1,1 +1,1 @@
-time ./mandelbrot.gpp-0.gpp_run 160000 > /dev/null
+time ./mandelbrot.gpp-0.gpp_run 50000 > /dev/null

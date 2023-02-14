@@ -41,7 +41,7 @@ def runTests(type: str, csvwriter):
         csvwriter.writerow([info['CPUTempBefore'], info['CPUTempDuring'], info['CPUTempAfter'], info['ElapsedTime']])
 
         #let the cpu cool down
-        time.sleep(1)
+        time.sleep(60)
 
 if __name__ == '__main__':
     numOfTests = 30
